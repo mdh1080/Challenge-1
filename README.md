@@ -8,6 +8,8 @@ Edit HTML and CSS to make it more accessible and organized.
 
 
 ## Usage
+The following image shows the web application's appearance and functionality:
+[Screen shot of website](assets\images\Horiseon Website.png)
 Images 
 assets\images\social-media-marketing.jpg
 assets\images\search-engine-optimization.jpg
